@@ -1,4 +1,4 @@
-
+#first partially succesful for continuous videos with timestamp. Issues: jumping frames, lag between recordings, variations in video length
 import os
 import time
 import cv2
