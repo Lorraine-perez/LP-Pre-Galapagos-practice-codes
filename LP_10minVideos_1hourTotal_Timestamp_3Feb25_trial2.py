@@ -1,4 +1,5 @@
-
+#2nd partially succesful code for continuous videos with timestamp. Tried to address issues with first code. 
+#Issues: still striggling with jumping frames, lag between recordings, variations in video length
 import os
 import time
 import cv2
